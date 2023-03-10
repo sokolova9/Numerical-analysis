@@ -1,2 +1,3 @@
 Using the Romberg table calculate the integral of a sufficiently smooth function with high accuracy
 trapezoidal method
+determination of the order of accuracy of the integrals of the second column of the table (I(1))
